@@ -1,0 +1,2 @@
+Potato;5;100;Nattakorn;003
+Coke;6;120;Nattakorn;003
